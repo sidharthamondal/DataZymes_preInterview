@@ -1,0 +1,8 @@
+Following are the requirements 
+
+Python 2.7
+Jupyter Notebook 
+beutifulsoup
+All other packaged are native to python (comes pre-installed)
+ElasticSearch 6.x up and running at localhost:9200
+Elasticsearch_Dsl package 
